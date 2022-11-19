@@ -1,8 +1,6 @@
 package com.example.surinklietuva;
-
 import com.example.surinklietuva.DataStructures.Magnet;
 import com.example.surinklietuva.DataStructures.User;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
